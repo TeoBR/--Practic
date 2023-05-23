@@ -1,0 +1,44 @@
+.banner-download
+{
+    position: relative;
+    width: 70.0625em;
+    height: 28.375em;
+    background-color: #F2F5F9;
+    border-radius: 1em;
+    display: flex;
+    margin-top: 10em;  
+}
+.img2
+{
+  z-index: 4;
+  position: absolute;
+  bottom: 0;
+  right: 1.8em;
+  margin-right: 5em;
+}
+.btn_download_1
+{
+    background-color: #0F1113;
+    width: 9.375em;
+    height: 3em;
+    border: none;
+    border-radius: 0.5em;
+    z-index: 9;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    position: absolute;
+    bottom: 5em;
+    left: 14em;
+}
+.downloadtext_1
+{
+  font-family: 'Inter-ExtraBold';
+  font-size: 2.5em;
+  color: #0F1113;
+  z-index: 9;
+  margin-right: 14em;
+  margin-left: 1.5em;
+  margin-top: 2em;
+}

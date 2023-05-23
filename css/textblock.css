@@ -1,0 +1,39 @@
+.p-txt-title
+{
+ font-family: 'Inter-Semibold';
+ font-size: 1em;
+}
+.txt-style-block
+{
+    display: flex;
+    justify-content: center;
+    flex-direction: row; 
+    align-items: center; 
+    margin-left: 11em; 
+
+}
+.txt-block-number
+{
+    width: 50%;
+    font-family: 'Inter-ExtraBold';
+    font-size: 2em;
+    color: #FF4D4D;
+}
+.p-txt-text
+{
+    font-size: 0.7em;
+    font-family: 'Inter-Regular';
+    width: 80%;
+    margin-right: 8em;
+}
+.block-inside-flex
+{
+    display: flex;
+    justify-content: space-between;
+}
+.col-txt
+{
+    display: flex;
+    flex-direction: column;
+    white-space: nowrap;
+}

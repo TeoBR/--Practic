@@ -1,0 +1,128 @@
+.titlenewblock
+{
+  font-family: 'Inter-Semibold';
+  font-size: 1em;  
+  margin-top: 5em;
+  display: flex;
+}
+.blockimagenew
+{ 
+    margin-top: 2em;
+    display: flex;
+    justify-content: center;
+    flex-direction: row
+
+}
+.stylenewblock
+{
+    background-color: #F6F7FA;
+    border: 0.4em solid #F2F5F9;
+    border-radius: 0.8em;
+    width: 12em;
+    height: 18em;
+    margin-left: 2em;
+}
+.multiplyimg
+{
+    mix-blend-mode: multiply;
+}
+.pimagenew-1
+{
+    font-size: 0.6em;
+    font-family: 'Inter-Regular';
+}
+.pimagenew-2
+{
+    font-size: 0.75em;
+    font-family: 'Inter-Semibold';
+}
+.pimagenew-3
+{
+    font-size: 0.8em;
+    font-family: 'Inter-Bold';
+}
+.fave {
+    width: 4.375em;
+    height:3.125em;
+    background: url(/image/twitter_fave.png) no-repeat;
+    background-position: 0 0;
+    mix-blend-mode: multiply;
+}
+    .fave:hover {
+        background-position: -3519px 0;
+        transition: background 1s steps(55);
+}
+.reviewsblock
+{
+    width: 15.375em;
+    height: 27.25em;
+    background-color: #F6F7FA;
+    border-radius: 1em  ;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+.img-reviewsblock
+{
+    
+    width: 100%;
+    height: 100%;
+    border-radius: 1em 1em 0px 0px;
+-webkit-border-radius: 1em 1em 0px 0px;
+-moz-border-radius: 1em 1em 0px 0px;
+}
+.pimagenew-4
+{
+    font-size: 0.8em;
+    font-family: 'Inter-Regular';
+}
+.stylereviewblock
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-left: 12em;
+    margin-right: 10em;
+    margin-top: 2em;
+}
+.footer-1
+{
+    width: 100%;
+    height: 25em;
+    background-color: #F2F5F9;
+    margin-top: 8em;
+}
+   
+.footer-style
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.footer-txt-1
+{
+    font-family: 'Inter-Regular';
+    font-size: 1em;
+    color: #A1ABB9;
+}
+.footer-txt-2
+{
+    font-family: 'Inter-Regular';
+    font-size: 1em;
+    color: #263141;
+    margin-top: 2em;
+}
+.flexfootercontent
+{
+    display: flex;
+    flex-direction: row;
+    margin-top: 2em;
+    
+}
+a
+{
+text-decoration: none;
+color: #263141 !important;
+}
+
